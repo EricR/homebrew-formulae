@@ -4,8 +4,8 @@
 
 class ToGist < Formula
   homepage "https://github.com/EricR/to_gist/"
-  url "https://github.com/EricR/to_gist/archive/0.1.1.tar.gz"
-  version "0.1.1"
+  url "https://github.com/EricR/to_gist/archive/0.1.2.tar.gz"
+  version "0.1.2"
   sha256 "2daaa8dd850df4f73de7f4fe4dae38baa9f412ad1831bcee8e99361bb6b9d961"
 
   depends_on "curl"
